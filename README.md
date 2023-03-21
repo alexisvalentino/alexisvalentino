@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@alexisvalentino](https://medium.com/@alexisvalentino)
 
-- 💬 Ask me about **Python, Machine Learning**
+- 💬 Ask me about **Python, Machine Learning, Web Development**
 
 - 📫 How to reach me **alexis01valentino@gmail.com**
 
