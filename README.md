@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **IOT Powered Smart Security Surveillance Robot with Weapons Detection**
 
-- 🌱 I’m currently learning **Tensorflow, OpenCV, Keras, Java**
+- 🌱 I’m currently learning **Tensorflow, OpenCV, Keras, Java, MERN**
 
-- 👨‍💻 All of my projects are available at [alexis01valentino.github.io](alexis01valentino.github.io)
+- 👨‍💻 All of my projects are available at [alexisvalentino.github.io](alexisvalentino.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@alexisvalentino](https://medium.com/@alexisvalentino)
 
