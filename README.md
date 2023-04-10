@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, Web Development**
 
-- 📫 How to reach me **alexis01valentino@gmail.com**
+- 📫 How to reach me **alexismartinvalentino@gmail.com**
 
 - 📄 Know about my experiences [alexisvalentino.github.io](alexisvalentino.github.io)
 
