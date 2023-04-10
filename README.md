@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://alexisvalentino.github.io/](alexisvalentino.github.io)
 
-- ⚡ Fun fact **I love coca cola.**
+- ⚡ Fun fact **I love coca cola**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
