@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, OpenCV, Keras, Java, MERN**
 
-- 👨‍💻 All of my projects are available at [alexisvalentino.github.io/](alexisvalentino.github.io)
+- 👨‍💻 All of my projects are available at [alexisvalentino.github.io](alexisvalentino.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@alexisvalentino](https://medium.com/@alexisvalentino)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **alexismartinvalentino@gmail.com**
 
-- 📄 Know about my experiences [alexisvalentino.github.io/](alexisvalentino.github.io)
+- 📄 Know about my experiences [alexisvalentino.github.io](alexisvalentino.github.io)
 
 - ⚡ Fun fact **I love coca cola**
 
