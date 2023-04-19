@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Computer Engineer from Philippines</h3>
 <img align="right" alt"Coding" width="400" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1670.jpg?w=740&t=st=1679398461~exp=1679399061~hmac=de857cf75b82ee17c389f7660d5c912e9ce18e090e370ebff3a524d79c90bc29">
 
-- 🔭 I’m currently working on **"Bagsik" The IOT Powered Smart Security Surveillance Robot with Real-time Threat Detection, Android app for Remote monitoring and control, and Night Vision Capabilities**
+- 🔭 I’m currently working on **"Bagsik" The IOT Powered Smart Security Surveillance Robot with Real-time Threat Detection, Night Vision Capabilities with Android Application for Remote monitoring and Control**
 
 - 🌱 I’m currently learning **Tensorflow, OpenCV, Keras, Java, MERN**
 
