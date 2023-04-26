@@ -1,4 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+<div style="text-align: center;">
+  <img src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif" alt="Sky" style="width: 1000px; height: 350px;">
+</div>
 <h1 align="center">Hi 👋, I'm Alexis Valentino</h1>
 <h3 align="center">I'm a Computer Engineer from Philippines</h3>
 <img align="right" alt"Coding" width="400" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1670.jpg?w=740&t=st=1679398461~exp=1679399061~hmac=de857cf75b82ee17c389f7660d5c912e9ce18e090e370ebff3a524d79c90bc29">
