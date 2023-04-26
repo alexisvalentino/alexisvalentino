@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Alexis Valentino</h1>
 <h3 align="center">I'm a Computer Engineer from Philippines</h3>
 <img align="right" alt"Coding" width="400" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1670.jpg?w=740&t=st=1679398461~exp=1679399061~hmac=de857cf75b82ee17c389f7660d5c912e9ce18e090e370ebff3a524d79c90bc29">
