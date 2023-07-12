@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, OpenCV, Keras, Java, MERN**
 
-- 👨‍💻 All of my projects are available at [alexisvalentino.github.io](alexisvalentino.github.io)
+- 👨‍💻 All of my projects are available at [alexisvalentino.vercel.app](alexisvalentino.vercel.app)
 
 - 📝 I regularly write articles on [https://medium.com/@alexisvalentino](https://medium.com/@alexisvalentino)
 
