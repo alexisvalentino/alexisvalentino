@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://i.pinimg.com/originals/9a/58/c3/9a58c343701abc80f7e1d5ec4142ab4d.gif" alt="Sky" style="width: 1000px; height: 350px;">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f43d5b0-2dc2-4600-a801-2e246e33b5b2/daskrbe-76c16531-2c95-4c35-8b68-309f92ef20f6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmNDNkNWIwLTJkYzItNDYwMC1hODAxLTJlMjQ2ZTMzYjViMlwvZGFza3JiZS03NmMxNjUzMS0yYzk1LTRjMzUtOGI2OC0zMDlmOTJlZjIwZjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GSno9jQNWayWqCZopi4q_zUCFq9Fb6KcvwjX53lLY3g" alt="Sky" style="width: 1000px; height: 350px;">
 </div>
 <h1 align="center">Hi 👋, I'm Alexis Valentino</h1>
 <h3 align="center">I'm a Software Engineer from Philippines</h3>
