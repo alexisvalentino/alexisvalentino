@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Alexis Valentino</h1>
 <h3 align="center">I'm a Software Engineer from Philippines</h3>
-<img align="right" alt"Coding" width="400" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1670.jpg?w=740&t=st=1679398461~exp=1679399061~hmac=de857cf75b82ee17c389f7660d5c912e9ce18e090e370ebff3a524d79c90bc29">
+<img align="right" alt"Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 - 🔭 I’m currently working on an **Iot Powered Smart Security Surveillance Robot with Real-time Threat Detection, Night Vision and Android Application for Remote Monitoring and Control**
 
