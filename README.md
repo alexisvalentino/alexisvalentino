@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f43d5b0-2dc2-4600-a801-2e246e33b5b2/daskrbe-76c16531-2c95-4c35-8b68-309f92ef20f6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmNDNkNWIwLTJkYzItNDYwMC1hODAxLTJlMjQ2ZTMzYjViMlwvZGFza3JiZS03NmMxNjUzMS0yYzk1LTRjMzUtOGI2OC0zMDlmOTJlZjIwZjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GSno9jQNWayWqCZopi4q_zUCFq9Fb6KcvwjX53lLY3g" alt="Sky" style="width: 1000px; height: 350px;">
+  <img src="https://camo.githubusercontent.com/04a81ab4ecc0334d4f975c88eaffa9030b1b901b23ec29cd7f6b2e075bcc1c16/68747470733a2f2f6d656469612e74656e6f722e636f6d2f344445463834625947324141414141642f73747261792d70726f6772616d6d696e672e676966" alt="Sky" style="width: 1000px; height: 350px;">
 </div>
 <h1 align="center">Hi 👋, I'm Alexis Valentino</h1>
 <h3 align="center">I'm a Software Engineer from Philippines</h3>
