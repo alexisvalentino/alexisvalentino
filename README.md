@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Tensorflow, OpenCV, Keras, Java, MERN**
 
-- 👨‍💻 All of my projects are available at [alexisvalentino.vercel.app](alexisvalentino.vercel.app)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://alexisvalentinowebsite.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@alexisvalentino](https://medium.com/@alexisvalentino)
+- 📝 I regularly write articles on [medium](https://medium.com/@alexisvalentino)
 
 - 💬 Ask me about **Python, Machine Learning, Web Development**
 
