@@ -5,7 +5,7 @@
 <h3 align="center">I'm a Software Engineer from Philippines</h3>
 <img align="right" alt"Coding" width="320" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
-- 🔭 I’m currently working on an **Iot Powered Smart Security Surveillance Robot with ML Based Real-time Threat Detection, Real time alerts with Event and Geolocation logging, Night Vision Capabilities and Android Application for Remote Monitoring and Control**
+- 🔭 I’m currently working on an **Iot Powered Smart Security Surveillance Robot with ML Based Real-time Threat Detection, Real time alerts with Event and Geolocation logging, Night Vision Capabilities and Mobile Integration for Remote Monitoring and Control**
 
 - 🌱 I’m currently learning **Tensorflow, OpenCV, Keras, Java, MERN**
 
