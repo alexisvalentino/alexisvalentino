@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://camo.githubusercontent.com/04a81ab4ecc0334d4f975c88eaffa9030b1b901b23ec29cd7f6b2e075bcc1c16/68747470733a2f2f6d656469612e74656e6f722e636f6d2f344445463834625947324141414141642f73747261792d70726f6772616d6d696e672e676966" alt="Sky" style="width: 1000px; height: 350px;">
+  <img src="https://cdna.artstation.com/p/assets/images/images/002/680/158/large/adam-tinning-shot-02.jpg?1464473227" alt="Sky" style="width: 1000px; height: 350px;">
 </div>
 <h1 align="center">Hi 👋, I'm Alexis Valentino</h1>
 <h3 align="center">I'm a Software Engineer from Philippines</h3>
