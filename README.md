@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://cdna.artstation.com/p/assets/images/images/002/680/158/large/adam-tinning-shot-02.jpg?1464473227" alt="Sky" style="width: 1000px; height: 350px;">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/002/680/161/large/adam-tinning-shot-01.jpg?1464472938" alt="Sky" style="width: 1000px; height: 350px;">
 </div>
 <h1 align="center">Hi 👋, I'm Alexis Valentino</h1>
 <h3 align="center">I'm a Software Engineer from Philippines</h3>
