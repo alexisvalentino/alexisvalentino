@@ -2,12 +2,12 @@
   <img src="https://cdnb.artstation.com/p/assets/images/images/029/637/315/large/za-ki-image41.jpg?1598197762" alt="Hacker" style="width: 1000px; height: 350px;">
 </div>
 <h1 align="center">Hi 👋, I'm Alexis Valentino</h1>
-<h3 align="center">I'm a Software Developer and Delivery Engineer from the Philippines</h3>
+<h3 align="center">I'm a Software Delivery Engineer from the Philippines</h3>
 <img align="right" alt"Coding" width="320" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 - 🔭 I’m currently working on an **App for a Big Telecommunications client**
 
-- 🌱 I’m currently learning **LLM and AI models**
+- 🌱 I’m currently learning **LLM and AI**
 
 - 👨‍💻 All of my projects are available at [alexisvalentino.tech](https://alexisvalentino.tech/)
 
