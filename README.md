@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://w.wallhaven.cc/full/2y/wallhaven-2yj1qx.png" alt="Hacker" style="width: 950px; height: 400px;">
+  <img src="https://w.wallhaven.cc/full/o5/wallhaven-o5jgz9.png" alt="Hacker" style="width: 950px; height: 400px;">
 </div>
 <h1 align="center">Hi 👋, I'm Alexis Valentino🦊🍜🍥</h1>
 <h3 align="center">I'm a SDE at 🐋☁️</h3>
