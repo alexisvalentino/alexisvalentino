@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Alexis Valentino🦊🍜🍥</h1>
 <h3 align="center">I'm a SDE at 🐋☁️</h3>
-<img align="right" alt"Coding" width="320" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+<img align="right" alt"Coding" width="320" src="https://cdnb.artstation.com/p/assets/images/images/042/198/371/large/floryx-sensei.jpg?1633861039">
 
 - 🔭 I’m currently working on an **App for a Big Telecommunications client**
 
