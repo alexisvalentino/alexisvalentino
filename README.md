@@ -21,6 +21,10 @@
 
 - ⚡ Fun fact **I love coca cola and your mom**
 
+- 😆 This GitHub is strictly for side quests—no work stuff.
+Streaks are for people who don’t push to prod or don’t have a job 😆
+(Just kidding… sort of. Get some sunlight, folks.)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
