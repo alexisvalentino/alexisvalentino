@@ -5,7 +5,7 @@
 <h3 align="center">I'm a SDE at 🐋☁️</h3>
 <img align="right" alt"Coding" width="250" src="https://cdnb.artstation.com/p/assets/images/images/042/198/371/large/floryx-sensei.jpg?1633861039">
 
-- 🔭 I’m currently working on an **App for a Big Telecommunications client and StandupAI**
+- 🔭 I’m currently working on the **DITO Telecom SuperApp(for work) and awah shit at StandupAI**
 
 - 🌱 I’m currently learning **LLM and AI**
 
