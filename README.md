@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **LLM and AI**
 
-- 👨‍💻 All of my projects are available at [alexisvalentino.tech](https://alexisvalentino.vercel.app/)
+- 👨‍💻 Some of my projects are available at [alexisvalentino.tech](https://alexisvalentino.vercel.app/)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@alexisvalentino)
 
