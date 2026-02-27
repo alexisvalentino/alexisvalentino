@@ -5,11 +5,11 @@
 <h3 align="center">I'm a SDE at 🐋☁️</h3>
 <img align="right" alt"Coding" width="250" src="https://cdnb.artstation.com/p/assets/images/images/042/198/371/large/floryx-sensei.jpg?1633861039">
 
-- 🔭 I’m currently working on the **DITO Telecom SuperApp(for work) and awah shit at [StandupAI](https://www.standupai.xyz/)**
+- 🔭 I’m currently working on the **DITO Telecom App(9-5), building the MVP and Landing page of [StandupAI](https://www.standupai.xyz/)**
 
 - 🌱 I’m currently learning **LLM and AI**
 
-- 👨‍💻 Some of my projects are available at [alexisvalentino.tech](https://alexisvalentino.vercel.app/)
+- 👨‍💻 Some(mostly private) of my projects are available at [alexisvalentino.tech](https://alexisvalentino.vercel.app/)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@alexisvalentino)
 
