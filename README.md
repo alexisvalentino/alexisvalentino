@@ -5,19 +5,20 @@
 <h3 align="center">I'm a SDE at 🐋☁️</h3>
 <img align="right" alt"Coding" width="250" src="https://cdnb.artstation.com/p/assets/images/images/042/198/371/large/floryx-sensei.jpg?1633861039">
 
-- 🔭  I’m currently working on continuous improvement of the DITO Telecom App (for work) and building the MVP and landing page for the future of project management at [Standup AI](https://www.standupai.xyz/)
+- 🔭  I’m currently working on the continuous improvement of the [DITO app](https://dito.ph/)
+(yes, my 9-5 😿). I'm Also building the future of project management at [Standup AI](https://www.standupai.xyz/)
 
-- 🌱 I’m currently learning **LLM and GenAI**
+- 🌱 I’m currently diving deep into **LLMs and Generative AI**
 
-- 👨‍💻 Some(mostly private) of my projects are available at [alexisvalentino.tech](https://alexisvalentino.vercel.app/)
+- 👨‍💻 Some of my projects (mostly private) are available at [alexisvalentino.tech](https://alexisvalentino.vercel.app/)
 
-- 📝 I regularly write articles on [medium](https://medium.com/@alexisvalentino)
+- 📝 I sometimes write articles on [medium](https://medium.com/@alexisvalentino)
 
-- 💬 Ask me about **Python, Machine Learning, Web Development**
+- 💬 Ask me about **Software Engineering/Testing, Machine Learning, or Chess**
 
-- 📫 How to reach me **alexismartinvalentino@gmail.com**
+- 📫 Reach me at: **alexis.valentino@live.ama.edu.ph**
 
-- 📄 Know about my experiences [linkedin/alexisvalentino](https://www.linkedin.com/in/alexisvalentino/)
+- 📄 Know about my experiences at [linkedin/alexisvalentino](https://www.linkedin.com/in/alexisvalentino/)
 
 - ⚡ Fun fact **I love coca cola and your mom**
 
@@ -25,9 +26,25 @@
 Streaks are for people who don’t push to prod or don’t have a job 😆
 (Just kidding… sort of. Get some sunlight, folks.)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Current Projects
+
+- 👨‍💻 **[StandupAI](https://standupai.xyz)** - A Vertical AI platform for agile teams. It tracks sprints, manages workloads, detects blockers, forecasts delivery, and summarizes team activity so you spend less time chasing status and more time shipping.
+- 💸 **[Xpense](xpensetrackerapp.vercel.app/)** - Sleek expense tracking platform designed to curb overspending through real-time financial monitoring and professional report generation.
+- 📈 **[Ultra365](https://github.com/alexisvalentino/Ultra658-Deep-Predictor)** - Educational deep learning project using TensorFlow and Keras to analyze 6/58 lottery patterns while exploring survivorship bias and the statistical limits of neural networks.
+
+### Old Projects
+- 🤖 **[Smart Security Robot](https://ieeexplore.ieee.org/document/10402359)** - IoT-powered security robot that provides real-time threat detection—such as weapons, loud sounds, and unrecognized faces—while offering mobile monitoring and automated alerts to enhance home surveillance.
+- 🔓 **[ChatGPT-DAN](https://github.com/alexisvalentino/Chatgpt-DAN)** - A comprehensive collection of ChatGPT "jailbreak" prompts, featuring the famous DAN (Do Anything Now) persona and various experimental techniques to bypass standard AI safety constraints.
+- ❓ **[Kuwestiyon AI](https://github.com/alexisvalentino/Kuwestiyon-AI)** - Conversational AI designed for the Filipino language, featuring real-time web search, PDF analysis, fact-checking, and NLP to SQL database querying.
+- 🧠 **[Psych access](https://psychaccess.netlify.app/)** - Web-based platform dedicated to bridging the gap in mental health care by providing centralized access to psychological resources and support tools.
+- 🐱 **[My Portfolio Website](https://alexisvalentino.vercel.app/)** - A creative anime-themed portfolio showcasing a collection of academic and personal projects developed during my university years.
+
+### Upcoming (Still in 🚧)
+- 👷‍♂️ **[Construction Anti-Corruption Portal](https://github.com/alexisvalentino/cacp)** - A civic-tech transparency platform inspired by a Philippine Star editorial calling for stricter oversight to prevent construction anomalies and ensure the "flood control scandal" never repeats.
+- ☕ **[Coffee Daily](https://coffeedaily.vercel.app/)** - Modern coffee shop landing page for my fav place featuring a curated artisan menu, high-quality visual storytelling, and a seamless user experience.
+- 🚬 **[SMOKR]()** - A dead-simple crowd-sourced mapping app for finding, navigating to, and contributing smoke-friendly locations to help a community of users discover new spots.
+- 🗞️ **[Dana](https://www.linkedin.com/company/dailynewsai)** - The evolution of the morning paper: an AI personal reporter that fits in your pocket, delivering curated, high-clarity news briefings designed to replace endless scrolling with meaningful insights.
+- 🌱 **[Terra]()** - A farm-to-market platform empowering Southeast Asian farmers to sell produce directly to customers while providing data-driven tools to improve their yields.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
