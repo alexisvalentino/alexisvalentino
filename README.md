@@ -31,7 +31,7 @@ Streaks are for people who don’t push to prod or don’t have a job 😆
 - 👨‍💻 **[StandupAI](https://standupai.xyz)** - A Vertical AI platform for agile teams. It tracks sprints, manages workloads, detects blockers, forecasts delivery, and summarizes team activity so you spend less time chasing status and more time shipping.
 - 💸 **[Xpense](https://xpensetrackerapp.vercel.app/)** - Sleek expense tracking platform designed to curb overspending through real-time financial monitoring and professional report generation.
 - 📈 **[Ultra365](https://github.com/alexisvalentino/Ultra658-Deep-Predictor)** - Educational deep learning project using TensorFlow and Keras to analyze 6/58 lottery patterns while exploring survivorship bias and the statistical limits of neural networks.
-- 🫧 **[TrustMop](https://trustmop.vercel.app/)** - Book a trusted cleaner in minutes. Clear pricing. Verified cleaners. Simple booking — designed for people in unfamiliar cities.
+- 🧹 **[TrustMop](https://trustmop.vercel.app/)** - Book a trusted cleaner in minutes. Clear pricing. Verified cleaners. Simple booking — designed for people in unfamiliar cities.
 
 ### Old Projects
 - 🤖 **[Smart Security Robot](https://ieeexplore.ieee.org/document/10402359)** - IoT-powered security robot that provides real-time threat detection—such as weapons, loud sounds, and unrecognized faces—while offering mobile monitoring and automated alerts to enhance home surveillance.
