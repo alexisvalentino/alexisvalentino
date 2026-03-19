@@ -31,6 +31,7 @@ Streaks are for people who don’t push to prod or don’t have a job 😆
 - 👨‍💻 **[StandupAI](https://standupai.xyz)** - A Vertical AI platform for agile teams. It tracks sprints, manages workloads, detects blockers, forecasts delivery, and summarizes team activity so you spend less time chasing status and more time shipping.
 - 💸 **[Xpense](https://xpensetrackerapp.vercel.app/)** - Sleek expense tracking platform designed to curb overspending through real-time financial monitoring and professional report generation.
 - 📈 **[Ultra365](https://github.com/alexisvalentino/Ultra658-Deep-Predictor)** - Educational deep learning project using TensorFlow and Keras to analyze 6/58 lottery patterns while exploring survivorship bias and the statistical limits of neural networks.
+- 🫧 **[TrustMop](https://trustmop.vercel.app/)** - Book a trusted cleaner in minutes. Clear pricing. Verified cleaners. Simple booking — designed for people in unfamiliar cities.
 
 ### Old Projects
 - 🤖 **[Smart Security Robot](https://ieeexplore.ieee.org/document/10402359)** - IoT-powered security robot that provides real-time threat detection—such as weapons, loud sounds, and unrecognized faces—while offering mobile monitoring and automated alerts to enhance home surveillance.
@@ -40,7 +41,6 @@ Streaks are for people who don’t push to prod or don’t have a job 😆
 - 🐱 **[My Portfolio Website](https://alexisvalentino.vercel.app/)** - A creative anime-themed portfolio showcasing a collection of academic and personal projects developed during my university years.
 
 ### Upcoming (Still in 🚧)
-- 🫧 **[TrustMop](https://trustmop.vercel.app/)** - Book a trusted cleaner in minutes. Clear pricing. Verified cleaners. Simple booking — designed for people in unfamiliar cities.
 - 👷‍♂️ **[Construction Anti-Corruption Portal](https://github.com/alexisvalentino/cacp)** - A civic-tech transparency platform inspired by a Philippine Star editorial calling for stricter oversight to prevent construction anomalies and ensure the "flood control scandal" never repeats.
 - 🚬 **[SMOKR]()** - A dead-simple crowd-sourced mapping app for finding, navigating to, and contributing smoke-friendly locations to help a community of users discover new spots.
 - 🗞️ **[Dana](https://www.linkedin.com/company/dailynewsai)** - The evolution of the morning paper: an AI personal reporter that fits in your pocket, delivering curated, high-clarity news briefings designed to replace endless scrolling with meaningful insights.
