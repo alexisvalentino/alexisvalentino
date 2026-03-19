@@ -2,7 +2,7 @@
   <img src="https://w.wallhaven.cc/full/d6/wallhaven-d6d7x3.png" alt="Hacker" style="width: 1000px; height: 400px;">
 </div>
 <h1 align="center">Hi 👋, I'm Alexis Valentino🦊🍜🍥</h1>
-<h3 align="center">I'm a SDE at 🐋☁️</h3>
+<h3 align="center">I'm a Software Delivery Engineer at 🐋Whale ☁️Cloud</h3>
 <img align="right" alt"Coding" width="250" src="https://cdnb.artstation.com/p/assets/images/images/042/198/371/large/floryx-sensei.jpg?1633861039">
 
 - 🔭  I’m currently working on the continuous improvement of the [DITO app](https://dito.ph/)
