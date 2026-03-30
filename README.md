@@ -6,7 +6,7 @@
 <img align="right" alt"Coding" width="320" src="https://cdnb.artstation.com/p/assets/images/images/042/198/371/large/floryx-sensei.jpg?1633861039">
 
 - 🔭  I’m currently working on the continuous improvement of the [DITO app](https://dito.ph/) (yes, my 9-5 😿 at Whale Cloud).
-I'm Also building the future of project management at [Standup AI](https://www.standupai.xyz/), Uber for cleaning at [TrustMop](https://trustmop.vercel.app/)
+I'm Also building the future of project management at [Standup AI](https://www.standupai.xyz/), Uber for cleaning at [TrustMop](https://www.linkedin.com/company/trustmop)
 
 - 🌱 I’m currently diving deep into **LLMs, OpenClaw, Generative AI**
 
