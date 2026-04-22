@@ -5,8 +5,7 @@
 <h3 align="center">I'm a BS Computer Engineer focused on Software Engineering</h3>
 <img align="right" alt"Coding" width="320" src="https://cdnb.artstation.com/p/assets/images/images/042/198/371/large/floryx-sensei.jpg?1633861039">
 
-- 🔭  I’m currently working on the continuous improvement of the [DITO app](https://dito.ph/) (yes, my 9-5 😿 at Whale Cloud).
-I'm Also building the future of project management at [Standup AI](https://www.standupai.xyz/), Uber for cleaning at [TrustMop](https://www.linkedin.com/company/trustmop)
+- 🔭  I've worked on improving the [DITO app](https://dito.ph/) (my 9-5 😿 at Whale Cloud), and built [Standup AI](https://www.standupai.xyz/) (Co-Founder) and [TrustMop](https://www.linkedin.com/company/trustmop) Uber for cleaning. Now working on a new software agency… keeping it low-key for now.
 
 - 🌱 I’m currently diving deep into **LLMs, OpenClaw, Generative AI**
 
