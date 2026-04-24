@@ -5,7 +5,7 @@
 <h3 align="center">I'm a BS Computer Engineer focused on Software Engineering</h3>
 <img align="right" alt"Coding" width="320" src="https://cdnb.artstation.com/p/assets/images/images/042/198/371/large/floryx-sensei.jpg?1633861039">
 
-- 🔭  **I am now working as a SWE for Ona (formerly Gitpod)**. Previously worked on improving the [DITO app](https://dito.ph/) (during my time at Whale Cloud, Alibaba Group), and built [Standup AI](https://www.standupai.xyz/) (Co-Founder) and [TrustMop](https://www.linkedin.com/company/trustmop) Uber for cleaning (Ongoing).
+- 😹 **I’m currently a Software Engineer at Ona (formerly Gitpod)**. Previously, I worked on improving the [DITO app](https://dito.ph/) at Whale Cloud (Alibaba Group). I also co-founded [Standup AI](https://www.standupai.xyz/) and am currently building [TrustMop](https://www.linkedin.com/company/trustmop) (Uber for cleaning).
 
 - 🌱 I’m currently diving deep into **LLMs, OpenClaw, Generative AI**
 
