@@ -27,6 +27,7 @@ Streaks are for people who don’t push to prod or don’t have a job 😆
 
 ### Current Projects
 
+- 🔆 **[Marahuyo Studios®](https://marahuyostudios.vercel.app/)** - A landing page for a Software Development agency. Architecting the future of digital experiences. Provides high-performance software for the next generation of enterprises.
 - 👨‍💻 **[StandupAI](https://standupai.xyz)** - A Vertical AI platform for agile teams. It tracks sprints, manages workloads, detects blockers, forecasts delivery, and summarizes team activity so you spend less time chasing status and more time shipping.
 - 💸 **[Xpense](https://xpensetrackerapp.vercel.app/)** - Sleek expense tracking platform designed to curb overspending through real-time financial monitoring and professional report generation.
 - 📈 **[Ultra365](https://github.com/alexisvalentino/Ultra658-Deep-Predictor)** - Lottery analysis using TensorFlow, Keras, and neural networks. Includes a Hot Numbers Predictor and advanced statistical methods, highlighting survivorship bias and common statistical fallacies. Serves as an educational case study on the limits of pattern recognition.
