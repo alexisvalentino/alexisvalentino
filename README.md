@@ -34,7 +34,7 @@ Streaks are for people who don’t push to prod or don’t have a job 😆
 - 🧹 **[TrustMop](https://trustmop.net/)** - Book a trusted cleaner in minutes. Clear pricing. Verified cleaners. Simple booking — designed for people in unfamiliar cities.
 
 ### Old Projects
-- 🤖 **[Smart Security Robot](https://ieeexplore.ieee.org/document/10402359)** - IoT-powered security robot that provides real-time threat detection—such as weapons, loud sounds, and unrecognized faces—while offering mobile monitoring and automated alerts to enhance home surveillance.
+- 🤖 **[IoT Security Robot](https://ieeexplore.ieee.org/document/10402359)** - IoT-powered security robot that provides real-time threat detection—such as weapons, loud sounds, and unrecognized faces—while offering mobile monitoring and automated alerts to enhance home surveillance.
 - 🔓 **[ChatGPT-DAN](https://github.com/alexisvalentino/Chatgpt-DAN)** - A comprehensive collection of ChatGPT "jailbreak" prompts, featuring the famous DAN (Do Anything Now) persona and various experimental techniques to bypass standard AI safety constraints. (outdated now, use obliteratus)
 - ❓ **[Kuwestiyon AI](https://kuwestiyonai.vercel.app/)** - Conversational AI designed for the Filipino language, featuring real-time web search, PDF analysis, fact-checking, and NLP to SQL database querying.
 - 🧠 **[Psych access](https://psychaccess.netlify.app/)** - Web-based platform dedicated to bridging the gap in mental health care by providing centralized access to psychological resources and support tools.
