@@ -42,9 +42,6 @@ Streaks are for people who don’t push to prod or don’t have a job 😆
 
 ### Upcoming (Still in 🚧)
 - 👷‍♂️ **[Construction Anti-Corruption Portal](https://github.com/alexisvalentino/cacp)** - A civic-tech transparency platform inspired by a Philippine Star editorial calling for stricter oversight to prevent construction anomalies and ensure the "flood control scandal" never repeats.
-- 🚬 **[SMOKR]()** - A dead-simple crowd-sourced mapping app for finding, navigating to, and contributing smoke-friendly locations to help a community of users discover new spots.
-- 🗞️ **[Dana]()** - The evolution of the morning paper: an AI personal reporter that fits in your pocket, delivering curated, high-clarity news briefings designed to replace endless scrolling with meaningful insights.
-- ☕ **[Coffee Daily](https://coffeedaily.vercel.app/)** - Modern coffee shop landing page for my fav place featuring a curated artisan menu, high-quality visual storytelling, and a seamless user experience.
 - 🌱 **[Terra]()** - A farm-to-market platform empowering Southeast Asian farmers to sell produce directly to customers while providing data-driven tools to improve their yields.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexisvalentino&" alt="alexisvalentino" /></p>
