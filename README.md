@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences at [linkedin/alexisvalentino](https://www.linkedin.com/in/alexisvalentino/)
 
-- ⚡ Fun fact **I love coca cola and your mom**
+- ⚡ Fun fact **I love being better than you**
 
 - 😆 **This GitHub is strictly for side quests—no work stuff.**
 Streaks are for people who don’t push to prod or don’t have a job 😆
@@ -28,6 +28,7 @@ Streaks are for people who don’t push to prod or don’t have a job 😆
 ### Current Projects
 - 📟 **[Omni](https://agentfirstoperatingsystem.vercel.app/)** - Omni is a hybrid AI operating system simulator built in the browser, inspired by Sam Altman’s vision and the reported OpenAI × Qualcomm AI OS direction. That idea pushed a shift toward agent-first systems that replace apps, but it felt incomplete to me. People still want control, visibility, and familiar interactions. So this is my take. Omni keeps the traditional smartphone interface (lock screen, home screen, notifications, app library) and adds an AI agent layer across everything. Instead of jumping between apps, you enter a Workspace where agents plan and execute tasks like travel, scheduling, and communication while you stay in the loop. Not app-first, not agent-only, both. It’s a full OS simulation with core system surfaces, multi-step agent workflows, memory, and a context-aware UI, built to explore what an AI-native OS could actually feel like. Let’s see what happens when they release theirs in 2028, but for now, this is how I envision it. Note: this is a simulator, not a production OS.
 - 👨‍💻 **[StandupAI](https://standupai.xyz)** - A Vertical AI platform for agile teams. It tracks sprints, manages workloads, detects blockers, forecasts delivery, and summarizes team activity so you spend less time chasing status and more time shipping.
+- 🔅 **[Marahuyo Studios®](https://marahuyostudios.vercel.app/)** - A landing page for a Software Development agency. Architecting the future of digital experiences. Provides high-performance software for the next generation of enterprises.
 - 💸 **[Xpense](https://xpensetrackerapp.vercel.app/)** - Sleek expense tracking platform designed to curb overspending through real-time financial monitoring and professional report generation.
 - 📈 **[Ultra365](https://github.com/alexisvalentino/Ultra658-Deep-Predictor)** - Lottery analysis using TensorFlow, Keras, and neural networks. Includes a Hot Numbers Predictor and advanced statistical methods, highlighting survivorship bias and common statistical fallacies. Serves as an educational case study on the limits of pattern recognition.
 
@@ -39,7 +40,6 @@ Streaks are for people who don’t push to prod or don’t have a job 😆
 - 🐱 **[My Portfolio Website](https://alexisvalentino.vercel.app/)** - A creative anime-themed portfolio showcasing a collection of academic and personal projects developed during my university years.
 
 ### Upcoming (Still in 🚧)
-- 🔅 **[Marahuyo Studios®](https://marahuyostudios.vercel.app/)** - A landing page for a Software Development agency. Architecting the future of digital experiences. Provides high-performance software for the next generation of enterprises.
 - 🧽 **[TrustMop](https://trustmop.net/)** - Book a trusted cleaner in minutes. Clear pricing. Verified cleaners. Simple booking — designed for people in unfamiliar cities.
 - 👽 **[DANA]()** - A reporter in your pocket. Turns fresh, curated articles into summarized, podcast-like news every time you tap the app’s widget.
 - 👷🏻‍♂️ **[Construction Anti-Corruption Portal](https://github.com/alexisvalentino/cacp)** - A civic-tech transparency platform inspired by a Philippine Star editorial calling for stricter oversight to prevent construction anomalies and ensure the "flood control scandal" never repeats.
