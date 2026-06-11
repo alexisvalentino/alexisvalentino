@@ -31,8 +31,16 @@ Streaks are for people who don’t push to prod or don’t have a job 😆
 - 🤯 **[Psych access](https://psychaccess.netlify.app/)** - Web-based platform dedicated to bridging the gap in mental health care by providing centralized access to psychological resources and support tools.
 - 🐱 **[My Portfolio Website](https://alexisvalentino.vercel.app/)** - A creative anime-themed portfolio showcasing a collection of academic and personal projects developed during my university years.
 
-### Still in 🚧
+### Still in 🚧 (Release dates? I don't even know. It's hard having a day job lil bro)
+- 🔥 **[Omni]()** - Finally, the real one. A new phone operating system built on the Android Open Source Project where apps are replaced by AI agents. Instead of opening different apps for different tasks, you just tell Omni what you want, and it gets it done in the background. The system coordinates multiple agents that interact with services, tools, and APIs so you don’t have to switch between apps or manage workflows yourself. It turns the phone into an intent-based system where outcomes matter more than interfaces. Omni removes traditional app boundaries and replaces them with a single agent-first workspace where everything is handled through intent, not apps. (Looking for collaborator on this cos nah shis not easy)
+- 👽 **[DANA]()** - A reporter in your pocket. It turns curated articles into short, podcast-style summaries you can listen to anytime from a widget.
+- 🌸 **[Delphi]()** - A knowledge cloning tool for professionals. It turns your expertise into a chat assistant that can answer and handle routine questions for you.
+- 👾 **[Axiom]()** - A marketplace for AI agents. You can hire and deploy automation agents for different workflows.
+- 🐙 **[Sienna]()** - An AI receptionist powered by RAG. It turns calls and support requests into structured, trackable tickets.
+- 👷🏻‍♂️ **[Construction Anti-Corruption Portal]()** - A civic-tech transparency platform inspired by a Philippine Star editorial calling for stricter oversight to prevent construction anomalies and ensure the "flood control scandal" never repeats.
 - 🧋 **[Brewloop]()** - My tambayan cafe rejected the landing page I pitched earlier, so I turned it into a SaaS instead (PT it worked). QR-powered digital loyalty system for their business @coffeedailybyft. It replaces their paper stamp cards with a branded mini-site, scannable QR codes, and an owner dashboard — all set up in under 5 minutes.
+- 📲 **[AskBGC]()** - An interactive AI layer for the city, connecting physical QR codes to hyper-local navigational and contextual intelligence.
+- 🌱 **[Terra]()** - A farm-to-market platform empowering Southeast Asian farmers to sell produce directly to customers while providing data-driven tools to improve their yields.
 
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexisvalentino&" alt="alexisvalentino" /></p>
