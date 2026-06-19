@@ -2,14 +2,15 @@
 <h3 align="center">I'm a BS Computer Engineer focused on Software Engineering 🍜</h3>
 <h3 align="center">Most repositories are now private. This README highlights selected public work and active projects.</h3>
 
-- 😹 **I’m currently a Software Engineer at Ona**. Previously, I worked on the continuous improvement and delivery of the [DITO Telecommunity Super App](https://dito.ph/), at Whale Cloud (Alibaba Group). I also co-founded [Standup AI](https://www.standupai.xyz/), an AI-powered sprint intelligence platform that helps Agile teams detect sprint risks early and improve delivery predictability, and now [TrustMop](https://trustmop.net/), a home cleaning platform now fully operational within the Taguig and Makati areas with 100xvc.
+- 😹 **I’m currently a Software Engineer at ONA**. Previously, I worked on the continuous improvement and delivery of the [DITO Telecommunity Super App](https://dito.ph/), at Whale Cloud (Alibaba Group). I also co-founded [Standup AI](https://www.standupai.xyz/), an AI-powered sprint intelligence platform that helps Agile teams detect sprint risks early and improve delivery predictability, and now [TrustMop](https://trustmop.net/), a home cleaning platform now fully operational within the Taguig and Makati areas incubated with 100xvc.io
 
 - 🌱 I’m currently diving deep into **Agentic & Generative AI**
-- 👨‍💻 Old projects are available at [alexisvalentino.tech](https://alexisvalentino.vercel.app/)
+- 👨‍💻 Freelance projects are available at [alexisvalentino.tech](https://alexisvalentino.vercel.app/)
 - 📝 I sometimes write articles on [medium](https://medium.com/@alexisvalentino)
 - 💬 Ask me about **Software Engineering/Testing, Machine Learning, or Chess**
 - 📫 Reach me at: **alexis.valentino@live.ama.edu.ph**
 - 🧿 Know about my experiences at [linkedin/alexisvalentino](https://www.linkedin.com/in/alexisvalentino/)
+- 🪛 Dev Tools: Cursor, Kiro, Antigravity, MimoCode, Codex, Zcode, Kilo (Yeah no claude code cos it's expensive AF)
 - 🙈 Fun fact: I enjoy deploying projects for students who think shipping to production starts and ends with Vercel.
 - 😆 **This GitHub is strictly for side quests—no work stuff.**
 Streaks are for people who don’t push to prod or don’t have a job 😆
@@ -25,7 +26,7 @@ Streaks are for people who don’t push to prod or don’t have a job 😆
 - 📈 **[Ultra365](https://github.com/alexisvalentino/Ultra658-Deep-Predictor)** - Lottery analysis using TensorFlow, Keras, and neural networks. Includes a Hot Numbers Predictor and advanced statistical methods, highlighting survivorship bias and common statistical fallacies. Serves as an educational case study on the limits of pattern recognition. (Check Mirofish IYW)
 
 ### Old Projects
-- 🎓 **[IoT-Based Smart Security Robot with Android App & ML Threat Detection](https://ieeexplore.ieee.org/document/10402359)** - A mobilized IoT security solution designed to solve the "blind spot" limitations of traditional CCTV. Featuring a multi-camera array and night vision, the system utilizes ML for real-time facial recognition, weapon detection, and acoustic break-in analysis. It includes a custom Android app for remote control and an automated alert pipeline that transmits GPS, live audio, and threat imagery. Peer-reviewed and published in IEEE Xplore (CICN 2023, Bangkok), this work has achieved significant academic impact with 8 international citations (5 Scopus) and 170+ professional reads.
+- 🎓 **[IoT-Based Smart Security Robot with Android App & ML Threat Detection](https://ieeexplore.ieee.org/document/10402359)** - A mobilized IoT security solution designed to solve the "blind spot" limitations of traditional CCTV. Featuring a multi-camera array and night vision, the system utilizes ML for real-time facial recognition, weapon detection, and acoustic break-in analysis. It includes a custom Android app for remote control and an automated alert pipeline that transmits GPS, live audio, and threat imagery. Peer-reviewed and published in IEEE Xplore (CICN 2023, Bangkok), this work has achieved significant academic impact with 8 international citations (5 Scopus) and 190+ professional reads.
 - 🔓 **[ChatGPT-DAN](https://github.com/alexisvalentino/Chatgpt-DAN)** - A comprehensive collection of ChatGPT "jailbreak" prompts, featuring the famous DAN (Do Anything Now) persona and various experimental techniques to bypass standard AI safety constraints (earned 235 github stars). However, this might not work now so use obliteratus instead.
 - ❓ **[Kuwestiyon AI](https://kuwestiyonai.vercel.app/)** - Conversational AI designed for the Filipino language, featuring real-time web search, PDF analysis, fact-checking, and NLP to SQL database querying. (Presented to the DOST iTanong Project under Dr. Elmer Peramo).
 - 🤯 **[Psych access](https://psychaccess.netlify.app/)** - Web-based platform dedicated to bridging the gap in mental health care by providing centralized access to psychological resources and support tools.
