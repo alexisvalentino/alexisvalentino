@@ -35,7 +35,7 @@ Streaks are for people who don’t push to prod or don’t have a job 😆
 - 🐱 **[My Portfolio Website](https://alexisvalentino.vercel.app/)** - A creative anime-themed portfolio showcasing a collection of academic and personal projects developed during my university years.
 
 ### Still in 🚧 (Release dates? I don't even know. It's hard having a day job lil bro)
-- 🧋 **[Brewloop]()** - My tambayan rejected the landing page I pitched earlier, so I turned it into a SaaS instead (it worked). QR-powered digital loyalty system for their business @coffeedailybyft. It replaces their paper stamp cards with a branded mini-site, scannable QR codes, and an owner dashboard — all set up in under 5 minutes.
+- 🧋 **[Brewloop](gobalik.com)** - My tambayan rejected the landing page I pitched earlier, so I turned it into a SaaS instead (it worked). QR-powered digital loyalty system for their business @coffeedailybyft. It replaces their paper stamp cards with a branded mini-site, scannable QR codes, and an owner dashboard — all set up in under 5 minutes. (now under gobalik.com) dev is a friend of mine, check them out.
 - 👷🏻‍♂️ **[Construction Anti-Corruption Portal]()** - A civic-tech transparency platform inspired by a Philippine Star editorial calling for stricter oversight to prevent construction anomalies and ensure the "flood control scandal" never repeats.
 - 🔆 **[DANA](https://www.linkedin.com/company/heydana)** - A reporter in your pocket. It turns curated articles into short, podcast-style summaries you can listen to anytime from a widget.
 - 🌸 **[Delphi]()** - A knowledge cloning tool for professionals. It turns your expertise into a chat assistant that can answer and handle routine questions for you.
