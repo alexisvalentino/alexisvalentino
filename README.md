@@ -36,9 +36,7 @@ Streaks are for people who don’t push to prod or don’t have a job 😆
 - 📈 **[Ultra365](https://github.com/alexisvalentino/Ultra658-Deep-Predictor)** - Lottery analysis using TensorFlow, Keras, and neural networks. Includes a Hot Numbers Predictor and advanced statistical methods, highlighting survivorship bias and common statistical fallacies. Serves as an educational case study on the limits of pattern recognition. (Check Mirofish IYW)
 
 ### Still in 🚧 (Release dates? I don't even know. It's hard having a day job lil bro)
-- 🤳 **[Hearth]()** - A social network built on presence. It's a "Digital Third Place" concept: presence instead of performance, doors instead of profiles, quiet company instead of feeds, and a consent ladder instead of random DMs.
-- 👷🏻‍♂️ **[Construction Anti-Corruption Portal]()** - A civic-tech transparency platform inspired by a Philippine Star editorial calling for stricter oversight to prevent construction anomalies and ensure the "flood control scandal" never repeats.
-- 🔆 **[DANA](https://www.linkedin.com/company/heydana)** - A reporter in your pocket. It turns curated articles into short, podcast-style summaries you can listen to anytime from a widget.
+- 🔆 **[DANA]()** - A reporter in your pocket. It turns curated articles into short, podcast-style summaries you can listen to anytime from a widget.
 - 🌸 **[Delphi]()** - A knowledge cloning tool for professionals. It turns your expertise into a chat assistant that can answer and handle routine questions for you.
 - 👾 **[Axiom]()** - A marketplace for AI agents. You can hire and deploy automation agents for different workflows.
 - 🐙 **[Sienna]()** - An AI receptionist powered by RAG. It turns calls and support requests into structured, trackable tickets.
