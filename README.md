@@ -10,7 +10,7 @@
 - 💬 Ask me about **Software Engineering/Testing, Machine Learning, or Chess**
 - 📫 Reach me at: **alexis.valentino@live.ama.edu.ph**
 - 🧿 Know about my experiences at [linkedin/alexisvalentino](https://www.linkedin.com/in/alexisvalentino/)
-- 🪛 Dev Tools: Cursor, Kiro, Antigravity, MimoCode, Codex, Zcode, Kilo (Yeah no claude code cos it's expensive AF)
+- 🪛 Dev Tools: Cursor, Kiro, Antigravity, MimoCode, Codex, Zcode
 - 🙈 Fun fact: I enjoy deploying projects for students who think shipping to production starts and ends with Vercel.
 - 😆 **This GitHub is strictly for side quests—no work stuff.**
 Streaks are for people who don’t push to prod or don’t have a job 😆
