@@ -2,7 +2,7 @@
 <h3 align="center">I'm a BS Computer Engineer focused on Software Engineering 🍜</h3>
 <h3 align="center">Most repositories are now private. This README highlights selected public work and active projects.</h3>
 
-- 😹 **I’m currently a Software Engineer at ONA**. Previously, I worked on the continuous improvement and delivery of the [DITO Telecommunity Super App](https://dito.ph/) (15M+ users) at Whale Cloud (Alibaba Group). I also co-founded [Standup AI](https://www.standupai.xyz/) and [TrustMop](https://trustmop.net/)(with [100xvc](https://app.100xvc.io/expedition)).
+- 😹 **I’m currently a Software Engineer at ONA**. Previously, I worked on the continuous improvement and delivery of the [DITO Telecommunity Super App](https://dito.ph/) (15M+ users) at Whale Cloud (Alibaba Group). I also co-founded [Standup AI](https://www.standupai.xyz/) and [TrustMop](https://trustmop.net/)(with [100xvc](https://100xvc.io)).
 
 - 🌱 I’m currently diving deep into **Agentic & Generative AI**
 - 👨‍💻 Freelance projects are available at [alexisvalentino.tech](https://alexisvalentino.vercel.app/)
