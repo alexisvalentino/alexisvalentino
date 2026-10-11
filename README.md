@@ -10,7 +10,7 @@
 - 💬 Ask me about **Software Engineering/Testing, Machine Learning, or Chess**
 - 📫 Reach me at: **alexis.valentino@live.ama.edu.ph**
 - 🧿 Know about my experiences at [linkedin/alexisvalentino](https://www.linkedin.com/in/alexisvalentino/)
-- 🪛 Dev Tools: Cursor, Kiro, Antigravity, MimoCode, Codex, Zcode
+- 🪛 Dev & AI Tools/Models: Opus 5.5, 6 Sol/Luna, 6.1 Astra, Cursor, Kiro, Antigravity, Codex
 - 🙈 Fun fact: I enjoy deploying projects for students who think shipping to production starts and ends with Vercel.
 - 😆 **This GitHub is strictly for side quests—no work stuff.**
 Streaks are for people who don’t push to prod or don’t have a job 😆
@@ -25,7 +25,6 @@ Streaks are for people who don’t push to prod or don’t have a job 😆
 - 📟 **[Omni](https://agentfirstoperatingsystem.vercel.app/)** - Omni is a hybrid AI operating system simulator built in the browser, inspired by Sam Altman’s vision of an AI-native OS and the reported OpenAI × Qualcomm direction aiming toward a 2028 release. Since no one really knows how that future will actually look, I built my own interpretation of it. Instead of going fully agent-only or removing apps entirely, Omni keeps the familiar smartphone interface like the home screen, lock screen, and notifications, while adding an AI agent layer on top. Inside a Workspace, agents can plan and execute multi-step tasks like travel, scheduling, and communication, while the user stays in control. It’s not app-first or agent-only, but a mix of both. A full OS simulation exploring what an AI-native system could feel like in practice.
 - 💸 **[Xpense](https://xpensetrackerapp.vercel.app/)** - Sleek expense tracking platform designed to curb overspending through real-time financial monitoring and professional report generation.
 - ❓ **[Kuwestiyon AI](https://kuwestiyonai.vercel.app/)** - Conversational AI designed for the Filipino language, featuring real-time web search, PDF analysis, fact-checking, and NLP to SQL database querying. (Presented to the DOST iTanong Project under Dr. Elmer Peramo).
-- 🧋 **[Brewloop](gobalik.com)** - My tambayan rejected the landing page I pitched earlier, so I turned it into a SaaS instead (it worked). QR-powered digital loyalty system for their business @coffeedailybyft. It replaces their paper stamp cards with a branded mini-site, scannable QR codes, and an owner dashboard — all set up in under 5 minutes. (now under gobalik.com) dev is a friend of mine, check them out.
 - 🌱 **[Focus Tracker](https://github.com/alexisvalentino/focustracker)** - A productivity app that's brutally honest with you. You get a cute bear mascot that judges you and your focus sessions, And when you fail? The bear gets really disappointed and your coins suffer.
 
 ### Old Projects
